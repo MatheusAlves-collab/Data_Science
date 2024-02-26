@@ -16,5 +16,5 @@ Quais algoritmos podes usar em se tratando de regressão e classificação:
   - Classificação: Sim, as árvores de decisão são frequentemente usadas para problemas de classificação, onde cada folha representa uma classe.
   - Regressão: Sim, as árvores de decisão também podem ser aplicadas a tarefas de regressão, prevendo um valor contínuo na folha correspondente.
 
-- **5 - K-Means:**
+- **5 - K Means:**
   - O K-Means é geralmente usado para tarefas de agrupamento, não para classificação direta.
